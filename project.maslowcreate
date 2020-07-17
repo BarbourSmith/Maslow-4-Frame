@@ -285,6 +285,15 @@
                             "ioValues": []
                         },
                         {
+                            "atomType": "GitHubMolecule",
+                            "name": "1/2 Inch by 1 Inch Bolt",
+                            "x": 0.05856515373352855,
+                            "y": 0.3409961685823755,
+                            "uniqueID": 299896,
+                            "projectID": "280545028",
+                            "ioValues": []
+                        },
+                        {
                             "atomType": "Translate",
                             "name": "Translate",
                             "x": 0.16398243045387995,
@@ -304,15 +313,6 @@
                                     "ioValue": 0.25
                                 }
                             ]
-                        },
-                        {
-                            "atomType": "GitHubMolecule",
-                            "name": "1/2 inch by 3/4 inch bolt",
-                            "x": 0.038799414348462666,
-                            "y": 0.5172413793103449,
-                            "uniqueID": 335427,
-                            "projectID": "280542668",
-                            "ioValues": []
                         },
                         {
                             "atomType": "Assembly",
@@ -487,18 +487,18 @@
                             "ap2ID": 498952
                         },
                         {
+                            "ap1Name": "Geometry",
+                            "ap2Name": "geometry",
+                            "ap2Primary": true,
+                            "ap1ID": 299896,
+                            "ap2ID": 862059
+                        },
+                        {
                             "ap1Name": "geometry",
                             "ap2Name": "3D shape 1",
                             "ap2Primary": false,
                             "ap1ID": 862059,
                             "ap2ID": 920352
-                        },
-                        {
-                            "ap1Name": "Geometry",
-                            "ap2Name": "geometry",
-                            "ap2Primary": true,
-                            "ap1ID": 335427,
-                            "ap2ID": 862059
                         },
                         {
                             "ap1Name": "geometry",
