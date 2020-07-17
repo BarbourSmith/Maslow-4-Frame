@@ -278,10 +278,19 @@
                         {
                             "atomType": "GitHubMolecule",
                             "name": "Unistrut Corner Bracket",
-                            "x": 0.2137628111273792,
-                            "y": 0.4482758620689655,
+                            "x": 0.1705710102489019,
+                            "y": 0.1839080459770115,
                             "uniqueID": 358386,
                             "projectID": "280525462",
+                            "ioValues": []
+                        },
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "1/2 inch by 3/4 inch bolt",
+                            "x": 0.038799414348462666,
+                            "y": 0.5172413793103449,
+                            "uniqueID": 335427,
+                            "projectID": "280542668",
                             "ioValues": []
                         },
                         {
@@ -625,5 +634,5 @@
     ],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
-    "circleSegmentSize": 2
+    "circleSegmentSize": "0.1"
 }
