@@ -3,6 +3,7 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |1-5/8ths Unistrut 10 foot|4|$90.32|https://www.homedepot.com/p/Superstrut-10-ft-12-Gauge-Half-Slotted-Metal-Framing-Strut-Channel-Silver-Galvanized-ZA12HS10EG/202714274|
-|Total: |4|$90.32| |
+|Unistrut Corner Bracket|2|$15.56|https://www.mcmaster.com/33125T21/|
+|Total: |6|$105.88| |
 
- 3xCOG MSRP: $270.96
+ 3xCOG MSRP: $317.64
