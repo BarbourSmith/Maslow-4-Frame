@@ -239,8 +239,8 @@
         {
             "atomType": "Molecule",
             "name": "Corner Brackets",
-            "x": 0.24377745241581258,
-            "y": 0.6973180076628352,
+            "x": 0.24304538799414352,
+            "y": 0.6360153256704981,
             "uniqueID": 839223,
             "ioValues": [],
             "topLevel": false,
@@ -374,7 +374,7 @@
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 90
                         },
                         {
                             "name": "y-axis degrees",
@@ -382,7 +382,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 180
                         }
                     ]
                 },
@@ -390,62 +390,62 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 0.38433382137628114,
-                    "y": 0.5019157088122606,
+                    "y": 0.4942528735632184,
                     "uniqueID": 260500,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 1.625
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -1.0625
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 30
                         }
                     ]
                 },
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 0.21669106881405564,
-                    "y": 0.7586206896551725,
+                    "x": 0.20571010248901903,
+                    "y": 0.7279693486590038,
                     "uniqueID": 153172,
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 90
                         },
                         {
                             "name": "y-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 90
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 180
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.3828696925329429,
-                    "y": 0.6973180076628352,
+                    "x": 0.37774524158125916,
+                    "y": 0.7088122605363985,
                     "uniqueID": 500995,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 1.625
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -1.0625
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 91.625
                         }
                     ]
                 },
