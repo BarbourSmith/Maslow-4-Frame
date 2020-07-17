@@ -237,6 +237,119 @@
             "fileTypeVersion": 1
         },
         {
+            "atomType": "Molecule",
+            "name": "Corner Brackets",
+            "x": 0.2452415812591508,
+            "y": 0.7432950191570881,
+            "uniqueID": 839223,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Corner Bracket Assembly",
+                    "x": 0.20717423133235727,
+                    "y": 0.42528735632183906,
+                    "uniqueID": 193097,
+                    "ioValues": [],
+                    "topLevel": false,
+                    "allAtoms": [
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "Unistrut Corner Bracket",
+                            "x": 0.2137628111273792,
+                            "y": 0.4482758620689655,
+                            "uniqueID": 358386,
+                            "projectID": "280525462",
+                            "ioValues": []
+                        },
+                        {
+                            "atomType": "Output",
+                            "name": "Output",
+                            "x": 0.9853587115666179,
+                            "y": 0.5,
+                            "ioValues": []
+                        }
+                    ],
+                    "allConnectors": [
+                        {
+                            "ap1Name": "Geometry",
+                            "ap2Name": "number or geometry",
+                            "ap2Primary": false,
+                            "ap1ID": 358386
+                        }
+                    ],
+                    "fileTypeVersion": 1
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.3367496339677892,
+                    "y": 0.36015325670498083,
+                    "uniqueID": 169460,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 90
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.47730600292825764,
+                    "y": 0.4444444444444444,
+                    "uniqueID": 118022,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -0.8125
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 30
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 193097,
+                    "ap2ID": 169460
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 169460,
+                    "ap2ID": 118022
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9853587115666179,
