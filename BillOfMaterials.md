@@ -2,3 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|1-5/8ths Unistrut 10 foot|4|$90.32|https://www.homedepot.com/p/Superstrut-10-ft-12-Gauge-Half-Slotted-Metal-Framing-Strut-Channel-Silver-Galvanized-ZA12HS10EG/202714274|
+|Total: |4|$90.32| |
+
+ 3xCOG MSRP: $270.96
