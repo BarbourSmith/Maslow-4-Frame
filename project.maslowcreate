@@ -9,7 +9,7 @@
     "allAtoms": [
         {
             "atomType": "Molecule",
-            "name": "Face",
+            "name": "Face Frame",
             "x": 0.1322751322751323,
             "y": 0.28307692307692306,
             "uniqueID": 286057,
