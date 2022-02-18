@@ -2,10 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|1-5/8ths Unistrut 10 foot|4|$90.32|https://www.homedepot.com/p/Superstrut-10-ft-12-Gauge-Half-Slotted-Metal-Framing-Strut-Channel-Silver-Galvanized-ZA12HS10EG/202714274|
-|1/2 Inch Channel Nut|12|$21.07|https://www.mcmaster.com/3259T15/|
-|Unistrut Corner Bracket|4|$31.12|https://www.mcmaster.com/33125T21/|
-|1/2 x 1 Inch Bolt|12|$7.30|https://www.mcmaster.com/92620A709/|
-|Total: |32|$149.81| |
+|Total: |0|$0.00| |
 
- 3xCOG MSRP: $449.44
+ 3xCOG MSRP: $0.00
