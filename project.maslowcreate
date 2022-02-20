@@ -2297,27 +2297,19 @@
                     "simplify": false
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Back Brace",
-                    "x": 0.32407407407407407,
-                    "y": 0.8061538461538461,
-                    "uniqueID": 640346,
-                    "ioValues": [],
-                    "topLevel": false,
-                    "allAtoms": [
+                    "atomType": "GitHubMolecule",
+                    "name": "Unistrut Angle Brace",
+                    "x": 0.3783068783068783,
+                    "y": 0.8092307692307692,
+                    "uniqueID": 587217,
+                    "projectID": "461356941",
+                    "ioValues": [
                         {
-                            "atomType": "Output",
-                            "name": "Output",
-                            "x": 0.9867724867724867,
-                            "y": 0.5,
-                            "uniqueID": 929097,
-                            "ioValues": []
+                            "name": "Angle",
+                            "ioValue": 17
                         }
                     ],
-                    "allConnectors": [],
-                    "fileTypeVersion": 1,
-                    "simplify": false,
-                    "unitsIndex": 0
+                    "simplify": false
                 },
                 {
                     "atomType": "Output",
