@@ -2330,25 +2330,10 @@
                     ]
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "Unistrut Angle Brace",
-                    "x": 0.19973544973544974,
-                    "y": 0.676923076923077,
-                    "uniqueID": 439275,
-                    "projectID": "461356941",
-                    "ioValues": [
-                        {
-                            "name": "Angle",
-                            "ioValue": 15
-                        }
-                    ],
-                    "simplify": false
-                },
-                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 0.3551587301587301,
-                    "y": 0.6861538461538461,
+                    "x": 0.3511904761904762,
+                    "y": 0.5938461538461538,
                     "uniqueID": 256023,
                     "ioValues": [
                         {
@@ -2370,54 +2355,10 @@
                     ]
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "1-5/8ths Unistrut",
-                    "x": 0.08267195767195767,
-                    "y": 0.7692307692307692,
-                    "uniqueID": 895223,
-                    "projectID": "280522300",
-                    "ioValues": [
-                        {
-                            "name": "Length (Inches)",
-                            "ioValue": 36
-                        }
-                    ],
-                    "simplify": false
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 0.6964285714285714,
-                    "y": 0.3384615384615385,
-                    "uniqueID": 141295,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 1",
-                            "ioValue": "source/849067/802552/800523Move"
-                        },
-                        {
-                            "name": "3D shape 2",
-                            "ioValue": "source/849067/802552/707748Move"
-                        },
-                        {
-                            "name": "3D shape 3",
-                            "ioValue": "source/849067/802552/304511Move"
-                        },
-                        {
-                            "name": "3D shape 4",
-                            "ioValue": "source/849067/802552/651682Move"
-                        },
-                        {
-                            "name": "3D shape 5",
-                            "ioValue": "source/849067/802552/332354Move"
-                        }
-                    ]
-                },
-                {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.5013227513227514,
-                    "y": 0.6030769230769231,
+                    "x": 0.498015873015873,
+                    "y": 0.4892307692307692,
                     "uniqueID": 651682,
                     "ioValues": [
                         {
@@ -2439,10 +2380,40 @@
                     ]
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Unistrut Angle Brace",
+                    "x": 0.19973544973544974,
+                    "y": 0.676923076923077,
+                    "uniqueID": 439275,
+                    "projectID": "461356941",
+                    "ioValues": [
+                        {
+                            "name": "Angle",
+                            "ioValue": 15
+                        }
+                    ],
+                    "simplify": false
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "1-5/8ths Unistrut",
+                    "x": 0.08267195767195767,
+                    "y": 0.7692307692307692,
+                    "uniqueID": 895223,
+                    "projectID": "280522300",
+                    "ioValues": [
+                        {
+                            "name": "Length (Inches)",
+                            "ioValue": 36
+                        }
+                    ],
+                    "simplify": false
+                },
+                {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.6038359788359788,
-                    "y": 0.6738461538461538,
+                    "x": 0.5826719576719577,
+                    "y": 0.5323076923076923,
                     "uniqueID": 332354,
                     "ioValues": [
                         {
@@ -2464,25 +2435,43 @@
                     ]
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "Unistrut Angle Brace",
-                    "x": 0.23809523809523808,
-                    "y": 0.8738461538461539,
-                    "uniqueID": 832070,
-                    "projectID": "461356941",
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 0.7003968253968255,
+                    "y": 0.3692307692307692,
+                    "uniqueID": 141295,
                     "ioValues": [
                         {
-                            "name": "Angle",
-                            "ioValue": 58
+                            "name": "3D shape 1",
+                            "ioValue": "source/849067/802552/800523Move"
+                        },
+                        {
+                            "name": "3D shape 2",
+                            "ioValue": "source/849067/802552/707748Move"
+                        },
+                        {
+                            "name": "3D shape 3",
+                            "ioValue": "source/849067/802552/304511Move"
+                        },
+                        {
+                            "name": "3D shape 4",
+                            "ioValue": "source/849067/802552/651682Move"
+                        },
+                        {
+                            "name": "3D shape 5",
+                            "ioValue": "source/849067/802552/332354Move"
+                        },
+                        {
+                            "name": "3D shape 6",
+                            "ioValue": "source/849067/802552/840696Move"
                         }
-                    ],
-                    "simplify": false
+                    ]
                 },
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 0.40939153439153436,
-                    "y": 0.8799999999999999,
+                    "x": 0.40145502645502645,
+                    "y": 0.6953846153846154,
                     "uniqueID": 348287,
                     "ioValues": [
                         {
@@ -2502,6 +2491,86 @@
                             "ioValue": 90
                         }
                     ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Unistrut Angle Brace",
+                    "x": 0.20238095238095238,
+                    "y": 0.84,
+                    "uniqueID": 832070,
+                    "projectID": "461356941",
+                    "ioValues": [
+                        {
+                            "name": "Angle",
+                            "ioValue": 58
+                        }
+                    ],
+                    "simplify": false
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.45171957671957674,
+                    "y": 0.8276923076923077,
+                    "uniqueID": 190204,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/849067/802552/204825GitHubMolecule"
+                        },
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 73
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": -90
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Move",
+                    "name": "Move",
+                    "x": 0.5992063492063492,
+                    "y": 0.7476923076923077,
+                    "uniqueID": 840696,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/849067/802552/190204Rotate"
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -10
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 39
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Unistrut Angle Brace",
+                    "x": 0.3134920634920635,
+                    "y": 0.9384615384615383,
+                    "uniqueID": 204825,
+                    "projectID": "461356941",
+                    "ioValues": [
+                        {
+                            "name": "Angle",
+                            "ioValue": -58
+                        }
+                    ],
+                    "simplify": false
                 },
                 {
                     "atomType": "Output",
@@ -2575,18 +2644,25 @@
                     "ap2ID": 141295
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 439275,
-                    "ap2ID": 256023
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 256023,
                     "ap2ID": 651682
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 4",
+                    "ap2Primary": false,
+                    "ap1ID": 651682,
+                    "ap2ID": 141295
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 439275,
+                    "ap2ID": 256023
                 },
                 {
                     "ap1Name": "Geometry",
@@ -2597,6 +2673,13 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 5",
+                    "ap2Primary": false,
+                    "ap1ID": 332354,
+                    "ap2ID": 141295
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap2Primary": false,
                     "ap1ID": 141295,
@@ -2604,17 +2687,10 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 4",
-                    "ap2Primary": false,
-                    "ap1ID": 651682,
-                    "ap2ID": 141295
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 5",
-                    "ap2Primary": false,
-                    "ap1ID": 332354,
-                    "ap2ID": 141295
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 348287,
+                    "ap2ID": 332354
                 },
                 {
                     "ap1Name": "Geometry",
@@ -2627,8 +2703,22 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
-                    "ap1ID": 348287,
-                    "ap2ID": 332354
+                    "ap1ID": 190204,
+                    "ap2ID": 840696
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 6",
+                    "ap2Primary": false,
+                    "ap1ID": 840696,
+                    "ap2ID": 141295
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 204825,
+                    "ap2ID": 190204
                 }
             ],
             "fileTypeVersion": 1,
