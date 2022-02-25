@@ -1435,7 +1435,7 @@
         {
             "atomType": "Molecule",
             "name": "Corner Brackets",
-            "x": 0.046957671957671955,
+            "x": 0.04828042328042328,
             "y": 0.6646153846153846,
             "uniqueID": 839223,
             "ioValues": [],
@@ -2150,25 +2150,10 @@
             "topLevel": false,
             "allAtoms": [
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "1-5/8ths Unistrut",
-                    "x": 0.08002645502645503,
-                    "y": 0.36615384615384616,
-                    "uniqueID": 712826,
-                    "projectID": "280522300",
-                    "ioValues": [
-                        {
-                            "name": "Length (Inches)",
-                            "ioValue": 21
-                        }
-                    ],
-                    "simplify": false
-                },
-                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 0.21031746031746032,
-                    "y": 0.3353846153846154,
+                    "x": 0.2156084656084656,
+                    "y": 0.08923076923076922,
                     "uniqueID": 605195,
                     "ioValues": [
                         {
@@ -2190,35 +2175,25 @@
                     ]
                 },
                 {
-                    "atomType": "Move",
-                    "name": "Move",
-                    "x": 0.3584656084656085,
-                    "y": 0.3076923076923077,
-                    "uniqueID": 707748,
+                    "atomType": "GitHubMolecule",
+                    "name": "1-5/8ths Unistrut",
+                    "x": 0.08002645502645503,
+                    "y": 0.36615384615384616,
+                    "uniqueID": 712826,
+                    "projectID": "280522300",
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": "source/849067/802552/605195Rotate"
-                        },
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0.8125
+                            "name": "Length (Inches)",
+                            "ioValue": 21
                         }
-                    ]
+                    ],
+                    "simplify": false
                 },
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 0.24404761904761904,
-                    "y": 0.5353846153846153,
+                    "x": 0.20701058201058203,
+                    "y": 0.32307692307692304,
                     "uniqueID": 410877,
                     "ioValues": [
                         {
@@ -2242,8 +2217,33 @@
                 {
                     "atomType": "Move",
                     "name": "Move",
-                    "x": 0.373015873015873,
-                    "y": 0.5323076923076923,
+                    "x": 0.35648148148148145,
+                    "y": 0.1476923076923077,
+                    "uniqueID": 707748,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/849067/802552/605195Rotate"
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0.8125
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Move",
+                    "name": "Move",
+                    "x": 0.39285714285714285,
+                    "y": 0.29846153846153844,
                     "uniqueID": 800523,
                     "ioValues": [
                         {
@@ -2265,19 +2265,107 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 0.5436507936507936,
-                    "y": 0.39076923076923076,
-                    "uniqueID": 141295,
+                    "atomType": "GitHubMolecule",
+                    "name": "Unistrut Angle Brace",
+                    "x": 0.19510582010582012,
+                    "y": 0.5046153846153846,
+                    "uniqueID": 587217,
+                    "projectID": "461356941",
                     "ioValues": [
                         {
-                            "name": "3D shape 1",
-                            "ioValue": "source/849067/802552/800523Move"
+                            "name": "Angle",
+                            "ioValue": 17
+                        }
+                    ],
+                    "simplify": false
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.32605820105820105,
+                    "y": 0.43692307692307697,
+                    "uniqueID": 683085,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/849067/802552/587217GitHubMolecule"
                         },
                         {
-                            "name": "3D shape 2",
-                            "ioValue": "source/849067/802552/707748Move"
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 90
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Move",
+                    "name": "Move",
+                    "x": 0.4748677248677248,
+                    "y": 0.37538461538461537,
+                    "uniqueID": 304511,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/849067/802552/683085Rotate"
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -19.35
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 1.625
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Unistrut Angle Brace",
+                    "x": 0.19973544973544974,
+                    "y": 0.676923076923077,
+                    "uniqueID": 439275,
+                    "projectID": "461356941",
+                    "ioValues": [
+                        {
+                            "name": "Angle",
+                            "ioValue": 15
+                        }
+                    ],
+                    "simplify": false
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.3551587301587301,
+                    "y": 0.6861538461538461,
+                    "uniqueID": 256023,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/849067/802552/439275GitHubMolecule"
+                        },
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": -90
                         }
                     ]
                 },
@@ -2297,19 +2385,123 @@
                     "simplify": false
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 0.6964285714285714,
+                    "y": 0.3384615384615385,
+                    "uniqueID": 141295,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 1",
+                            "ioValue": "source/849067/802552/800523Move"
+                        },
+                        {
+                            "name": "3D shape 2",
+                            "ioValue": "source/849067/802552/707748Move"
+                        },
+                        {
+                            "name": "3D shape 3",
+                            "ioValue": "source/849067/802552/304511Move"
+                        },
+                        {
+                            "name": "3D shape 4",
+                            "ioValue": "source/849067/802552/651682Move"
+                        },
+                        {
+                            "name": "3D shape 5",
+                            "ioValue": "source/849067/802552/332354Move"
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Move",
+                    "name": "Move",
+                    "x": 0.5013227513227514,
+                    "y": 0.6030769230769231,
+                    "uniqueID": 651682,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/849067/802552/256023Rotate"
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 1.625
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Move",
+                    "name": "Move",
+                    "x": 0.6038359788359788,
+                    "y": 0.6738461538461538,
+                    "uniqueID": 332354,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/849067/802552/348287Rotate"
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -9.25
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 36.25
+                        }
+                    ]
+                },
+                {
                     "atomType": "GitHubMolecule",
                     "name": "Unistrut Angle Brace",
-                    "x": 0.3783068783068783,
-                    "y": 0.8092307692307692,
-                    "uniqueID": 587217,
+                    "x": 0.23809523809523808,
+                    "y": 0.8738461538461539,
+                    "uniqueID": 832070,
                     "projectID": "461356941",
                     "ioValues": [
                         {
                             "name": "Angle",
-                            "ioValue": 17
+                            "ioValue": 58
                         }
                     ],
                     "simplify": false
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 0.40939153439153436,
+                    "y": 0.8799999999999999,
+                    "uniqueID": 348287,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/849067/802552/832070GitHubMolecule"
+                        },
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 107
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 90
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -2327,6 +2519,13 @@
             ],
             "allConnectors": [
                 {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 605195,
+                    "ap2ID": 707748
+                },
+                {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
@@ -2337,8 +2536,8 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
-                    "ap1ID": 605195,
-                    "ap2ID": 707748
+                    "ap1ID": 410877,
+                    "ap2ID": 800523
                 },
                 {
                     "ap1Name": "geometry",
@@ -2349,17 +2548,52 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 410877,
-                    "ap2ID": 800523
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 1",
                     "ap2Primary": false,
                     "ap1ID": 800523,
                     "ap2ID": 141295
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 587217,
+                    "ap2ID": 683085
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 683085,
+                    "ap2ID": 304511
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 3",
+                    "ap2Primary": false,
+                    "ap1ID": 304511,
+                    "ap2ID": 141295
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 439275,
+                    "ap2ID": 256023
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 256023,
+                    "ap2ID": 651682
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 895223,
+                    "ap2ID": 410877
                 },
                 {
                     "ap1Name": "geometry",
@@ -2369,11 +2603,32 @@
                     "ap2ID": 924805
                 },
                 {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 4",
+                    "ap2Primary": false,
+                    "ap1ID": 651682,
+                    "ap2ID": 141295
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 5",
+                    "ap2Primary": false,
+                    "ap1ID": 332354,
+                    "ap2ID": 141295
+                },
+                {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
-                    "ap1ID": 895223,
-                    "ap2ID": 410877
+                    "ap1ID": 832070,
+                    "ap2ID": 348287
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 348287,
+                    "ap2ID": 332354
                 }
             ],
             "fileTypeVersion": 1,
